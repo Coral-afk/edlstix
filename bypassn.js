@@ -1,4 +1,4 @@
-base_url = "https://raw.githubusercontent.com/Coral-afk/edlstix/main/execution.js"
+base_url = "https://raw.githubusercontent.com/Coral-afk/edlstix/main/fullscreen_payload.js"
 if (typeof document.dev_env != "undefined") {
   base_url = document.dev_env;
 }
